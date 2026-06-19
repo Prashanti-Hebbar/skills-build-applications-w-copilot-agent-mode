@@ -1,7 +1,7 @@
 ## Step 3: Build the logic and data tiers for the multi-tier application
 
 > [!NOTE]
-> **Behind the scenes:** Custom instructions and prompt files guide Copilot while building the logic and data tiers.
+> **Behind the scenes:** Custom instructions and prompt files guide Copilot while building the logic and data tiers..
 
 In this step, you will implement the backend of the **multi-tier application**:
 
